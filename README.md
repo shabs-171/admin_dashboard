@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License MIT">
   </a>
   <br>
-  <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source" />
+  
   <img src="https://forthebadge.com/images/badges/made-with-typescript.svg" alt="Made with TypeScript" />
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
   <br>
